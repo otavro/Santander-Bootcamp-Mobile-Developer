@@ -1,4 +1,3 @@
-<br />
 <p align="center">
 
   <h3 align="center">Santander Bootcamp | Mobile Developer</h3>
