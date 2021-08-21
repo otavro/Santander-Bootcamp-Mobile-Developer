@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Detalhes do Projeto
 
-![calculadora-screenshot](http://prntscr.com/193o4tf)
+![calculadora-screenshot](https://i.imgur.com/2W2u0V1.png)
 
 
 
